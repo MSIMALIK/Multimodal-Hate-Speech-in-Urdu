@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C.svg)](https://pytorch.org/)
-
+# Bridging Modalities and Languages: An Explainable Cross-lingual Multimodal Deep Learning Framework for Hate Speech Detection
 The repository contains Jupyter notebooks for developing, training, and evaluating multimodal machine-learning/deep-learning pipelines that combine **text** and **image** information for hate vs. non-hate classification.
 
 ## 📊 Datasets Overview
