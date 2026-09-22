@@ -1,0 +1,31 @@
+# Core numerical and data processing
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+scikit-learn>=1.3,<2.0
+
+# Deep learning and computer vision
+torch>=2.1
+torchvision>=0.16
+timm>=0.9
+Pillow>=10.0
+opencv-python>=4.8
+
+# NLP / multimodal model tooling
+transformers>=4.40,<5.0
+datasets>=2.18
+sentencepiece>=0.2.0
+accelerate>=0.28
+
+# Evaluation and utilities
+torchmetrics>=1.3
+tqdm>=4.66
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# Notebook environment
+jupyter>=1.0
+jupyterlab>=4.0
+ipykernel>=6.29
